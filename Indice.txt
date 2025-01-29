@@ -1,7 +1,9 @@
 Este proyecto es la vinculacion de visual studio con github donde podremos subir proyectos.
 Siendo esta una pequeña toma de contacto donde la intención es crear cuatro ramas distintas.
 Cada una tendrá un tema distinto, chistes, refranes, adivinanzas y trabalenguas.
-Dentro de chistes encontraremos archivos, chistes ,chistes de humor negro y chistes malos.
-Dentro de adivinanzas encontramos las fáciles, las navideñas y un par en inglés.
-En refranes encontraremos en francés, inglés y español.
-Por último encontraremos trabalenguas normales, en ingles y el trabalenguas totalmente imposible.
+Dentro de chistes encontraremos archivos, chistes ,chistes de humor negro y chistes malos siendo los archivos de la carpeta 1,2 y 3.
+Dentro de adivinanzas encontramos las fáciles, las navideñas y un par en inglés que van desde la carpeta 4 ,5 y la 6.
+En refranes encontraremos en francés, inglés y español los refranes van de la carpeta 7 ,8 y  la 9 en orden inverso, de español a francés.
+Por último encontraremos trabalenguas normales, en ingles y el trabalenguas totalmente imposible siguiendo el orden se encuentran de la carpeta numero 10 a la 12.
+
+
